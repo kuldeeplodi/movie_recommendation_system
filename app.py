@@ -4,7 +4,10 @@ import pandas as pd
 
 
 import requests
+import os
 
+# Load environment variable
+TMDB_API_KEY = os.getenv("TMDB_API_KEY")
 
 
 
