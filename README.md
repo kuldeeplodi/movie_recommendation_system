@@ -1,11 +1,11 @@
-🎬 Movie Recommendation System
-A content-based movie recommendation web application built using Python, Streamlit, and Scikit-learn. Just select a movie and get 6 similar movie suggestions along with their posters — thanks to the TMDb API.
+#🎬 Movie Recommendation System
+###A content-based movie recommendation web application built using Python, Streamlit, and Scikit-learn. Just select a movie and get 6 similar movie suggestions along with their posters — thanks to the TMDb API.
 
 
-🚀 Live Demo
+#🚀 Live Demo
 🔗 Click here to try the live app
 
-📌 Features
+#📌 Features
 🔍 Search and select a movie from the dropdown
 
 🤖 See 6 recommended movies based on content similarity
